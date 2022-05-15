@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/SClay345/sclay345/master/csbanner.png" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=23&duration=4000&color=10740B&background=FFFFFF00&multiline=true&width=477&height=125&lines=Hi+there!;My+name+is+Clay+Schneider;I'm+a+Full-Stack+Developer;I+am+currently+seeking+a+full+time+position.;________________________)](https://git.io/typing-svg)
 
@@ -26,4 +27,8 @@ My name is Clay and I'm a software engineer. I currently live in Arizona and am 
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/SClay345" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/clayschneider/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ClayGeocall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://angel.co/u/clay-schneider" target="_blank" rel="noreferrer"><img src="https://angel.co/images/static_pages/logo/AngelList_Black_Victory_Hand.png" width="32" height="32" /></a></p>
+
+
+### Projects
+
 
