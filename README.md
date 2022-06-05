@@ -30,11 +30,13 @@ My name is Clay and I'm a software engineer. I currently live in Arizona and am 
 
 
 ### Projects
+<section align="left">
 Ni No Kuni Familiar API: https://ni-no-kuni-guide.herokuapp.com/
 
 Example Site using API:
 
 
-<a href ="https://sclay345.github.io/ninokunifamiliar/"><img src="https://github.com/SClay345/sclay345/blob/master/screen-capture%20(3).gif?raw=true"></a>
+<a href ="https://sclay345.github.io/ninokunifamiliar/"><img width="500" length="500" src="https://github.com/SClay345/sclay345/blob/master/screen-capture%20(3).gif?raw=true"></a>
+ <section>
 
 
