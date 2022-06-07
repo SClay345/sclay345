@@ -29,14 +29,61 @@ My name is Clay and I'm a software engineer. I currently live in Arizona and am 
 <p align="left"> <a href="https://www.github.com/SClay345" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/clayschneider/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ClayGeocall" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://angel.co/u/clay-schneider" target="_blank" rel="noreferrer"><img src="https://angel.co/images/static_pages/logo/AngelList_Black_Victory_Hand.png" width="32" height="32" /></a></p>
 
 
-### Projects
-<section align="left">
-Ni No Kuni Familiar API: https://ni-no-kuni-guide.herokuapp.com/
 
-Example Site using API:
+<h2 align="center">Recent Projects</h2>
 
 
-<a href ="https://sclay345.github.io/ninokunifamiliar/"><img width="500" length="500" src="https://github.com/SClay345/sclay345/blob/master/screen-capture%20(3).gif?raw=true"></a>
- <section>
+<table width="100%">
+  <tbody>
+  <tr width="100%">
+    <td width="50%" v-align="top">
+      <h3 dir="auto" align="center">Ni No Kuni Familiar API</h3>
+      <br>
+       <a href="https://sclay345.github.io/ninokunifamiliar/"><img src="https://github.com/SClay345/sclay345/blob/master/screen-capture%20(3).gif?raw=true"></a>
+      <p align="center">
+        <a href="https://github.com/SClay345/NiNoKuniCreatures"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ni-no-kuni-guide.herokuapp.com/"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p>An API built to provide information for familiars in the video game Ni No Kuni. I was playing it and realized a lot of the data was scattered and not direct if I wanted specific answers so I built my own API for anyone to use. </p>
+    </td>
+<!--  2nd Project    -->
+<!--     <td width="50%" v-align="top">
+      <h3 dir="auto" align="center">TBD</h3>
+      <br>
+      <a href="#"><img src="#"></a>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="#"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p>Description of Project</p>
+    </td>  
+  </tr> -->
+    
+<!--     3rd Project -->
+<!--   <tr width="100%">
+    <td width="50%" v-align="top">
+      <h3 dir="auto" align="center">Name of Project</h3>
+      <br>
+       <a href="#"><img src="#"></a>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="#"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p>Project Description</p>
+    </td> -->
+    
+<!--     4th Project -->
+<!--     <td width="50%" v-align="top">
+      <h3 dir="auto" align="center">Project 4 Name</h3>
+      <br>
+      <a href="#"><img src="#"></a>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="#"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p></p>
+    </td>  
+  </tr>
+     -->
+
+  </tbody>
+</table>
+
 
 
