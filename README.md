@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SClay345/sclay345/master/csbanner.png" />
+<img src="https://raw.githubusercontent.com/SClay345/sclay345/master/.github/images/csbanner.png" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=23&duration=4000&color=10740B&background=FFFFFF00&multiline=true&width=477&height=125&lines=Hi+there!;My+name+is+Clay+Schneider;I'm+a+Full-Stack+Developer;I+am+currently+seeking+a+full+time+position.;________________________)](https://git.io/typing-svg)
 
@@ -39,7 +39,7 @@ My name is Clay and I'm a software engineer. I currently live in Arizona and am 
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center">Ni No Kuni Familiar API</h3>
       <br>
-       <a href="https://sclay345.github.io/ninokunifamiliar/"><img src="https://github.com/SClay345/sclay345/blob/master/screen-capture%20(3).gif?raw=true"></a>
+       <a href="https://sclay345.github.io/ninokunifamiliar/"><img src="https://raw.githubusercontent.com/sclay345/sclay345/master/.github/images/ninokuni.gif"></a>
       <p align="center">
         <a href="https://github.com/SClay345/NiNoKuniCreatures"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ni-no-kuni-guide.herokuapp.com/"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
