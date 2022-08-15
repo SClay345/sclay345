@@ -9,7 +9,7 @@ Software Engineer @ 100Devs
 My name is Clay and I'm a software engineer. I currently live in Arizona and am passionate about anything and everything tech related. I love playing with new gadgets as much as I love discovering how they actually work. I live to answer every question or puzzle I come across with a relentless drive. I started in IT until I started writing code to automate this or automate that. A year later I had almost completely automated my daily tasks and was confident in the languages I was working in. Not long after this I started getting requests to make websites from my interactions at work. Before I knew it I was accidentally jumping careers and started freelancing on my own.
 
 *   🌍  I'm based in Arizona
-*   🖥️  See my portfolio at [Clayschneider.tech](http://clayschneider.tech/)
+*   🖥️  See my portfolio at [https://clayschneider.netlify.app](https://clayschneider.netlify.app)
 *   ✉️  You can contact me at [schneiderclay92@gmail.com](mailto:schneiderclay92@gmail.com)
 
 ### Skills
